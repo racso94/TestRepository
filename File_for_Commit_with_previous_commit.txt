@@ -1,0 +1,1 @@
+Line added for commit with a previous commit without a pull.
