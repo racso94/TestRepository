@@ -1,0 +1,2 @@
+Another file for testing git.
+New line in staging.
